@@ -1,0 +1,9 @@
+[Core]
+Name = awscyberrange
+Module = awscyberrange
+
+[Documentation]
+Description = This plugin queries a AwsCyberRange registration (sign-up https://www[.]circl[.]lu).
+
+[Python]
+Version = 2+

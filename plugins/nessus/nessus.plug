@@ -1,0 +1,9 @@
+[Core]
+Name = nessus
+Module = nessus
+
+[Documentation]
+Description = This plugin queries tenable plugin IDs for CVEss
+
+[Python]
+Version = 2+

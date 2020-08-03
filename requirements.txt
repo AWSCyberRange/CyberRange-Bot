@@ -1,0 +1,3 @@
+pyminizip
+errbot
+errbot[slack]
